@@ -106,3 +106,9 @@ html, body {
 		box-shadow: inset 0px 3px var(--cyan);
 	}
 }
+
+.info-container {
+	display: flex;
+	position: absolute;
+	font-size: 14px;
+}
